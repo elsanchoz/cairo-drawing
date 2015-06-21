@@ -14,6 +14,3 @@ window: window.o
 window.o: window.c
 		$(CC) $(CFLAGS) -c -o window.o window.c $(LIBS)			
 	
-
-#draw.o: draw.c
-#		$(CC) $(CFLAGS) -c -o draw.o draw.c $(LIBS)

@@ -132,7 +132,7 @@ int main( int argc, char *argv[] )
 	
 	gtk_window_fullscreen(GTK_WINDOW(window));
 	
-	gtk_window_set_title (GTK_WINDOW (window), "Modern Art");
+	gtk_window_set_title (GTK_WINDOW (window), "Serious Stuff with RGB");
 
 	gtk_widget_queue_draw (drawing);
 	
